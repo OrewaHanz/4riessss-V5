@@ -47,15 +47,15 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-Hi %name
- -*NameBot* : 4riessssBOT
- -*NameOwner* : h4nzoo
- -*NumberOwner* : wa.me/601115351387
- -*GroupBot* : .gcbot
- -*PartnerBot* PutXdBot
- -*RunWeb* : Heroku
- -*Ver4riesss* : 4riessss-V4
- -*Library* : Baileys
+Hi %name 🍷
+ - *NameBot* : 4riessssBOT
+ - *NameOwner* : h4nzoox
+ - *NumberOwner* : wa.me/601115351387
+ - *GroupBot* : .gcbot
+ - *PartnerBot* PutXdBot
+ - *RunWeb* : Heroku
+ - *Ver4riesss* : 4riessss-V5
+ - *Library* : Baileys
 ┌  ◦ Uptime : %uptime
 │  ◦ Hari : %week %weton
 │  ◦ Waktu : %time
