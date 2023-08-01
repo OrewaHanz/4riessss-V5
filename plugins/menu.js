@@ -48,14 +48,14 @@ let tags = {
 const defaultMenu = {
   before: `
 Hi %name 🍷
- - *NameBot* : *4riessssBOT*
- - *NameOwner* : *h4nzoox*
- - *NumberOwner* : *wa.me/601115351387*
+ - *NameBot* : *Mochiboba Bot*
+ - *NameOwner* : *fieyy*
+ - *NumberOwner* : *wa.me/60163569619*
  - *GroupBot* : *.gcbot*
- - *PartnerBot* : *PutXdBot*
+ - *JadiBot* : *wa.me/601115351387*
  - *RunWeb* : *Heroku*
- - *Ver4riesss* : *4riessss-V5*
  - *Library* : *Baileys*
+ 
 ┌  ◦ Uptime : %uptime
 │  ◦ Hari : %week %weton
 │  ◦ Waktu : %time
@@ -163,7 +163,7 @@ text = typeof conn.menu == 'string' ? conn.menu : typeof conn.menu == 'object' ?
       level, limit, name, weton, week, date, dateIslamic, wib, wit, wita, time, totalreg, rtotalreg, role
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-  conn.sendFile(m.chat, `https://telegra.ph/file/a4452fd67b197c2939447.jpg`, null, text, m)
+  conn.sendFile(m.chat, `https://telegra.ph/file/f56c65baff9130ee4b004.jpg`, null, text, m)
   } catch (e) {
     conn.reply(m.chat, 'Maaf, menu sedang error', m)
     throw e
