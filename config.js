@@ -4,31 +4,31 @@ Penjelasan selanjutnya adalah untuk mengisi variabel global.mongo, yang merupaka
 **/
 
 
-global.owner = ['601115351387','60165669237','01137759884']  
-global.mods = ['601115351387'] 
-global.prems = ['601115351387']
-global.nameowner = '4riesssszBot'
-global.numberowner = '601115351387' 
-global.mail = '4riesssz@support.com' 
-global.dana = '601115351387'
-global.pulsa = '601115351387'
-global.gopay = '601115351387'
-global.namebot = '4riesssszBot'
-global.gc = 'https://chat.whatsapp.com/KLCbh463fakK0sdaHs8Buu'
+global.owner = ['60163569619']  
+global.mods = ['60163569619'] 
+global.prems = ['60163569619']
+global.nameowner = 'fieyy'
+global.numberowner = '60163569619' 
+global.mail = 'mochiboba@support.com' 
+global.dana = '60163569619'
+global.pulsa = '60163569619'
+global.gopay = '60163569619'
+global.namebot = 'Mochiboba Bot'
+global.gc = 'https://chat.whatsapp.com/HxbgIFZgbg6HaTtipy3R5c'
 global.web = 'https://github.com/OrewaHanz'
-global.instagram = 'https://instagram.com/hanzoooox'
-global.wm = '© Ariessssz'
+global.instagram = 'https://instagram.com/fieyy4lyfer'
+global.wm = '© mochiboba'
 global.watermark = wm
-global.wm2 = '⫹⫺ 4riessssz'
-global.wm3 = '© 4riessssz'
-global.wm4 = '© 4riessssz'
+global.wm2 = '⫹⫺ mochiboba'
+global.wm3 = '© mochiboba'
+global.wm4 = '© mochiboba'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made by'
-global.author = '4rieszBot'
+global.author = 'mochiboba'
 global.alpiskey = 'YOUR_APIKEY_HERE' //daftar sendiri jika key habis https://alpis.eu.org
 
 global.btc = 'YOUR_APIKEY_HERE' //Daftar terlebih dahulu https://api.botcahx.live
